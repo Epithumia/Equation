@@ -91,6 +91,7 @@ Name      Operation                   Syntax        Display
 **im**    Imagery Component of A      ``im(A)``     :math:`\Im\left(A\right)`
 **sqrt**  Square root of A            ``sqrt(A)``   :math:`\sqrt{A}`
 **log**   Logarithm of A              ``log(A)``    :math:`\log\left(A\right)`
+**log**   Logarithm of A (base N)     ``log(A, N)`` :math:`\log_{N}\left(A\right)`
 **exp**   Exponential of A            ``exp(A)``    :math:`\exp\left(A\right)`
 **min**   Minimum of A                ``min(A)``    :math:`\min\left(A\right)`
 **max**   Maximum of A                ``max(A)``    :math:`\max\left(A\right)`
